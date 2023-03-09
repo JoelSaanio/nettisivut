@@ -1,0 +1,47 @@
+nav{ 
+    background-color: aqua;
+    float: left;
+    border: 5px solid blue;
+    color: red;
+    padding: 4px;
+    height: 150px;
+    width: 400px 
+    
+    
+}
+section{
+    float: none;
+    border: 5px solid blue;
+    text-align: center;
+    padding: 10px;
+    color: red
+    }
+main{
+    border: 5px solid blue;
+    background-color: aqua;
+    text-align: center;
+    color: red;
+    }
+body{
+    background-color:gray;
+}
+head{
+    text-align: center;
+    color: red;
+}
+h1{
+    text-align: center;
+    color: red;
+}
+footer{
+    text-align: center;
+    color: red;
+    background-color: aqua;
+} 
+/* mouse over link */
+a:hover {
+    color:red;
+  }
+  p{
+    padding-left: 2px;
+}
